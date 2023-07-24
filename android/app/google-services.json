@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "836773770536",
-    "project_id": "wisychallenge",
-    "storage_bucket": "wisychallenge.appspot.com"
+    "project_number": "956687503386",
+    "project_id": "wisylucasballestrino",
+    "storage_bucket": "wisylucasballestrino.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:836773770536:android:04b211bcb2208b623acc1d",
+        "mobilesdk_app_id": "1:956687503386:android:08fbd5b3b59d0efa3e41a3",
         "android_client_info": {
-          "package_name": "com.lucas_ballestrino.wisy_challenge"
+          "package_name": "com.example.wisy_challenge"
         }
       },
       "oauth_client": [
         {
-          "client_id": "836773770536-0s7pubrogn0flbog98otl52rsbaf1rgj.apps.googleusercontent.com",
+          "client_id": "956687503386-n27a1mfkppenfiq22rim8r16gp243kis.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB8SmKmbuy7Qdl6RdLK5tV3spQ9LuDXnqc"
+          "current_key": "AIzaSyDMRsNqTu10LxMiEE6lx5tu24mdMBK2tiU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "836773770536-0s7pubrogn0flbog98otl52rsbaf1rgj.apps.googleusercontent.com",
+              "client_id": "956687503386-n27a1mfkppenfiq22rim8r16gp243kis.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "956687503386-63gtl0q0fdknhv5a362o0vie89d9n5o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wisyChallenge.RunnerTests"
+              }
             }
           ]
         }
